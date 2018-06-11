@@ -35,6 +35,9 @@
 		<td width="20%"><input type="submit" value="회의자 테스트" onclick="location.href='test4.jsp'"></td>
 		<td width="20%"><input type="submit" value="형성자 테스트" onclick="location.href='test5.jsp'"></td>
 	</tr>
+	<tr>
+		<td width="20%"><input type="submit" value="단어장 테스트" onclick="location.href='test6.jsp'"></td>
+	</tr>
 	
 </table>
 </article>

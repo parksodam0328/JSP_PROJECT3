@@ -8,7 +8,7 @@
 </head>
 <body>
 <jsp:forward page="gumon.jsp">
-	<jsp:param name="CONTENTPAGE" value="resultTestProc4.jsp"/>
+	<jsp:param name="CONTENTPAGE" value="resultTestProc5.jsp"/>
 </jsp:forward>
 </body>
 </html>
